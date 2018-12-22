@@ -1,0 +1,4 @@
+tweepy
+logger
+nltk-corpus
+matplotlib
